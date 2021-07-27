@@ -1,6 +1,6 @@
 # Conky configuration
 ###### DO NOT CREATE ISSUES IN THIS REPOSITORY, ISSUES ARE EXPECTED ON OTHER HARDWARE, CHANGES MIGHT BE NECESSARY FOR YOUR USE CASE
-I made this configuration in pair with my wallpaper, this means the color match, and everything is visible.
+I made this configuration in pair with my wallpaper, this means the colors match, and everything is visible.
 
 ### Changes - IMPORTANT!
 This configuration places the widget outside the default screen ([see here](https://github.com/Frequential/conky-configuration/blob/13eb3b586c34aedd21910f866691f211dd55deea/conky.conf#L56)) if you are not running a multi-monitor setup or your monitors have a different resolution, **you will need to change this**. Change the number to 0 to have a good start point.
