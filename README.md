@@ -1,4 +1,4 @@
-![github-frame](https://user-images.githubusercontent.com/28309837/236691084-03d2f5dc-78a8-4633-ad15-19a5b10ecf25.png)
+![conky-config](https://user-images.githubusercontent.com/28309837/236695843-2a6a3be8-81b3-43f3-8e01-325a01ff3732.png)
 
 ###### DO NOT CREATE ISSUES IN THIS REPOSITORY, ISSUES ARE EXPECTED ON OTHER HARDWARE, CHANGES MIGHT BE NECESSARY FOR YOUR USE CASE
 I made this configuration in pair with my wallpaper, this means the colors match, and everything is visible.
